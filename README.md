@@ -1,5 +1,5 @@
 # Final Project Webpage
-**EEC 172 Embedded Systems**   
+**EEC 172: Embedded Systems**   
 **Team Members:** Brandon Wong, Rohit Singh  
 **Under the sincere guidance of:** Professor Soheil Ghiasi and TA Rishad Joarder
 
@@ -108,6 +108,7 @@ Tilt-based input is reused for the “Play Again?” menu, with inverse-color fe
 | Breadboard & Jumpers   | 1        | Amazon          | $5.00     |
 | USB Cable              | 1        | Amazon          | $5.00     |
 | TLS Certificate Setup  | -        | AWS IoT         | Free      |
+                                              
 
 ---
 
